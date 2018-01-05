@@ -1,0 +1,57 @@
+
+.navbar-custom {
+    background-color:rgb(38, 95, 141);
+    color:#ffffff;
+    margin-top: 5px;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#fff;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+    color: #ffffff;
+    background-color:transparent;
+}
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus,
+.navbar-custom .navbar-nav > .open >a {
+    text-decoration: none;
+    background-color: #337AB7;
+}
+
+.navbar-custom .navbar-brand {
+    color:#eeeeee;
+}
+.navbar-custom .navbar-toggle {
+    background-color:#eeeeee;
+}
+.navbar-custom .icon-bar {
+    background-color:#337AB7;
+}
+
+/* Alertify notification custom css */
+.alertify-logs.center {
+    left: 0;
+    width: 100%;
+  }
+  .alertify-logs.center > .default,
+  .alertify-logs.center > .success,
+  .alertify-logs.center > .error {
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+  }
+
+  .alertify-logs.middle {
+    height: 100%;
+  }
+  .alertify-logs.middle > .default,
+  .alertify-logs.middle > .success,
+  .alertify-logs.middle > .error {
+    top: 50%;
+    transform: translateY(-50%);
+  }

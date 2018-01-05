@@ -1,0 +1,14 @@
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/bin/Debug/netcoreapp2.0/ContactApp.Core.Tests.deps.json
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/bin/Debug/netcoreapp2.0/ContactApp.Core.Tests.runtimeconfig.json
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/bin/Debug/netcoreapp2.0/ContactApp.Core.Tests.runtimeconfig.dev.json
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/bin/Debug/netcoreapp2.0/ContactApp.Core.Tests.dll
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/bin/Debug/netcoreapp2.0/ContactApp.Core.Tests.pdb
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/obj/Debug/netcoreapp2.0/ContactApp.Core.Tests.csprojResolveAssemblyReference.cache
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/obj/Debug/netcoreapp2.0/ContactApp.Core.Tests.csproj.CoreCompileInputs.cache
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/obj/Debug/netcoreapp2.0/ContactApp.Core.Tests.AssemblyInfoInputs.cache
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/obj/Debug/netcoreapp2.0/ContactApp.Core.Tests.AssemblyInfo.cs
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/obj/Debug/netcoreapp2.0/ContactApp.Core.Tests.dll
+/Users/shashankkumar/Projects/ContactApp/ContactApp.Core.Tests/obj/Debug/netcoreapp2.0/ContactApp.Core.Tests.pdb

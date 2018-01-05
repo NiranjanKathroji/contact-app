@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Customers\" />
+    <Folder Include="Enquiries\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ContactApp.Data\ContactApp.Data.csproj" />
+    <ProjectReference Include="..\ContactApp.Core\ContactApp.Core.csproj" />
+  </ItemGroup>
+</Project>
